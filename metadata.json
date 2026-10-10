@@ -1,0 +1,6 @@
+{
+  "name": "FormEngine - Designer & Dynamic SQL Renderer",
+  "description": "Enterprise Form Designer, SQL Server Relational Schema Engine, and Dynamic Multi-Step Form Renderer with real-time conditional logic and validations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
